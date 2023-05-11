@@ -1,0 +1,11 @@
+E:\чето\Алфовит\Алфовит\bin\Debug\Алфовит.exe.config
+E:\чето\Алфовит\Алфовит\bin\Debug\Алфовит.exe
+E:\чето\Алфовит\Алфовит\bin\Debug\Алфовит.pdb
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.csproj.AssemblyReference.cache
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.csproj.SuggestedBindingRedirects.cache
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.Form1.resources
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.Properties.Resources.resources
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.csproj.GenerateResource.cache
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.csproj.CoreCompileInputs.cache
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.exe
+E:\чето\Алфовит\Алфовит\obj\Debug\Алфовит.pdb
